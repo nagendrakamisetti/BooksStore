@@ -1,6 +1,6 @@
 # Books Store Application
 
-This is React base application.
+This is React based application.
 
 ### Getting Started
 
